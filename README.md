@@ -24,43 +24,46 @@ ______________________________________________________
 
 # Course schedule
 
-The course will run from April 25th to June 7th. Details to be added soon.
+The course will run from April 25th to June 7th. The course is hybrid. From Monday 
+May 2nd until Wednesday May 4th we will meet in Bergen, at the MMIV centre. The remainder of the course lectures will be given via Zoom. 
 
-<!--
+The schedule will be updated throughout the course (except for the timing of the 
+physical lectures in Bergen, which is fixed).
 
 | Day       |  Content
 |------------|------------
-|**Monday, April 19th**|                                                  |
-|10:15-12:00 | About the course, motivation, participants |
-|**Week 16, April 20&ndash;23**|                                                |
-|On your own | [Getting started](0-getting_started)|
-|**Thursday April 29th**|                                                  |
-|10:15-12:00 | [Individual project pitch](project_pitch) |
-|**Friday April 30th**|                                                  |
-|10:15-12:00 | [Getting started on the team project](team_project) |
-|**Thursday May 6th**|                                                  |
-|10:15-12:00 | [A hands-on tour of deep learning](1-deep_learning) |
-|**Friday May 7th**|                                                  |
-|10:15-12:00 | [A hands-on tour of deep learning](1-deep_learning) |
-|**Wednesday May 12th**|                                                  |
-|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging) |
-|**Friday May 14th**|                                                  |
-|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging) |
-|**Wednesday May 19th**|                                                  |
-|10:15-12:00 | [Network science](3-network_science)  |
-|**Thursday May 20th**|                                                  |
-|10:15-12:00 | [Network science](3-network_science)  |
-|**Week 22**|                                                  |
-|On your own | Work on [team project](team_project) |
-|**Thursday May 27th**|                                                  |
-|10:15-12:00 | Team project presentations |
-|**Wednesday June 2nd**|                                                  |
-| | Team project deadline |
-|**Friday June 4th**|                                                  |
-| | Feedback on team project |
-|**Tuesday June 8th**|                                                  |
-|10:15-12:00 | Digital exam (pass/fail)|
+|**Monday, April 25th**|                                                  
+|10:15-12:00 | Lectures about the course: its motivation and objectives
+|**Week 16, April 26&ndash;29**|                                                
+|On your own | [Getting started](0-getting_started)
+|**Monday May 2nd, in Bergen**|                                                 
+|10:15-12:00 | [Individual project pitch](project_pitch) 
+|12.00-13.00 | Lunch will be served (details TBA)                                                 
+|13:15-15:00 | [Getting started on the team project](team_project)                                                  
+|15:00-17.00| Team-wise discussions about the [team projects](team_project)  
+|**Tuesday May 3rd, in Bergen**| 
+|09.15-12.00 | [A hands-on tour of deep learning, Part 1](1-deep_learning) 
+|13.15-15.00 | Working on the [team project](team_project)                                              
+|18.00- | Social activity (details TBA)      
+|**Tuesday May 4th, in Bergen**|
+|09.15-12.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
+|13.15-15.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
+|**Monday May 9th** | 
+|09.15-12.00 | [Biomedical imaging in time and space, Part 1](2-biomedical_imaging) 
+|**Friday May 13th** | 
+|09.15-12.00 | [Biomedical imaging in time and space, Part 2](2-biomedical_imaging) 
+|**Friday May 20th**|                                                  
+|10:15-12:00 | _TBA_|
+|**Week 21**|                                                  
+|On your own | Work on [team project](team_project)
+|**Wednesday June 1st**|                                                  
+|10:15-12:00 | Team project presentations 
+|**Thursday June 2nd**|                                                  
+|16.00 | Team project deadline 
+|**Monday June 6th**|                                                  
+| | Feedback on team project
+|**Tuesday June 7th**|                                                  
+|10:15-12:00 | Digital exam (pass/fail)
 
 
--->
 ______________________________________________________
