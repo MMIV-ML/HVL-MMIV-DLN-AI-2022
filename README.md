@@ -41,11 +41,10 @@ physical lectures in Bergen, which is fixed).
 |10:30-11:30 | [Individual project pitch](project_pitch) 
 |12:00-14:00 | [Getting started on the team project](team_project)                                                  
 |14.00-15.00 | Lunch will be served (details on Discord)                                                 
-|15:00-17.00| Team-wise discussions about the [team projects](team_project)  
+|15:00-| Discussions about the [team projects](team_project) organized by each team 
 |**Tuesday May 3rd, in Bergen**| _Location announced on Discord_  
 |09.15-12.00 | [A hands-on tour of deep learning, Part 1](1-deep_learning) 
-|13.15-15.00 | Working on the [team project](team_project)                                              
-|18.00- | Social activity (details TBA)      
+|13.15-15.00 | Working on the [team project](team_project)                                                  
 |**Wednesday May 4th, in Bergen**| _Location announced on Discord_  
 |09.15-12.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
 |13.15-15.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
