@@ -36,16 +36,16 @@ physical lectures in Bergen, which is fixed).
 |10:15-12:00 | Lectures about the course: its motivation and objectives
 |**Week 16, April 26&ndash;29**|                                                
 |On your own | [Getting started](0-getting_started)
-|**Monday May 2nd, in Bergen**|                                                 
-|10:15-12:00 | [Individual project pitch](project_pitch) 
-|12.00-13.00 | Lunch will be served (details TBA)                                                 
-|13:15-15:00 | [Getting started on the team project](team_project)                                                  
-|15:00-17.00| Team-wise discussions about the [team projects](team_project)  
-|**Tuesday May 3rd, in Bergen**| 
+|**Monday May 2nd, in Bergen**| _Location announced on Discord_                                              
+|~09.45| We gather at a location to be announced 
+|10:30-11:30 | [Individual project pitch](project_pitch) 
+|12:00-14:00 | [Getting started on the team project](team_project)                                                  
+|14.00-15.00 | Lunch will be served (details on Discord)                                                 
+|15:00-| Discussions about the [team projects](team_project) organized by each team 
+|**Tuesday May 3rd, in Bergen**| _Location announced on Discord_  
 |09.15-12.00 | [A hands-on tour of deep learning, Part 1](1-deep_learning) 
-|13.15-15.00 | Working on the [team project](team_project)                                              
-|18.00- | Social activity (details TBA)      
-|**Tuesday May 4th, in Bergen**|
+|13.15-15.00 | Working on the [team project](team_project)                                                  
+|**Wednesday May 4th, in Bergen**| _Location announced on Discord_  
 |09.15-12.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
 |13.15-15.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
 |**Monday May 9th** | 
