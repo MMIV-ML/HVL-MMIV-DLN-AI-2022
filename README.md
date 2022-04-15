@@ -9,10 +9,10 @@ Recent years have seen a surge of interest in machine learning and artificial in
 
 By the end of the course the participants will have a solid understanding of the ideas of machine learning, and good experience and practical intuitions around how the methods can be applied in biomedical domains, using modern tools and frameworks. They'll also be familiar with some challenges and limitations of applied machine learning.
 
-Sign up for the course [here](https://www.survey-xact.no/LinkCollector?key=2LAGQW7TJ195).
+<!--Sign up for the course [here](https://www.survey-xact.no/LinkCollector?key=2LAGQW7TJ195).-->
 
 
-For questions about the course, contact course coordinator [Alexander S. Lundervold](https://www.hvl.no/en/employee/?user=3610493) or the DLN research school via [Rosalie Zwiggelaar](rosalie.zwiggelaar@ntnu.no)
+For questions about the course, contact course coordinator [Alexander S. Lundervold](https://www.hvl.no/en/employee/?user=3610493) or the DLN research school via [Rosalie Zwiggelaar](mailto:rosalie.zwiggelaar@ntnu.no)
 
 
 
