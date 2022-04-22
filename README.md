@@ -52,7 +52,7 @@ physical lectures in Bergen, which is fixed).
 |09.15-12.00 | [Biomedical imaging in time and space, Part 1](2-biomedical_imaging) 
 |**Friday May 13th** | 
 |09.15-12.00 | [Biomedical imaging in time and space, Part 2](2-biomedical_imaging) 
-|**Friday May 20th**|                                                  
+|**Thursday May 19th**|                                                  
 |10:15-12:00 | _TBA_|
 |**Week 21**|                                                  
 |On your own | Work on [team project](team_project)
