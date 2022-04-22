@@ -57,7 +57,7 @@ physical lectures in Bergen, which is fixed).
 |**Week 21**|                                                  
 |On your own | Work on [team project](team_project)
 |**Wednesday June 1st**|                                                  
-|10:15-12:00 | Team project presentations 
+|09:15-12:00 | Team project presentations 
 |**Thursday June 2nd**|                                                  
 |16.00 | Team project deadline 
 |**Monday June 6th**|                                                  
