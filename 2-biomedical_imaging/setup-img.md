@@ -36,7 +36,7 @@ Atom is a free and open-source text and source code editor for writing and editi
 You can also **render markdown files** (e.g. local README.md files): Packages -> Markdow Preview -> Toggle Preview.<br>
 Install Atom (Mac Windows Linux) from: https://flight-manual.atom.io/getting-started/sections/installing-atom
 
-# ITK-SNAP:
+## ITK-SNAP:
 ITK-SNAP is an open-source image analysis tool used to segment and label structures in 3D medical images. ITK-SNAP is supported on Mac, Windows and Linux and provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation. You can read and interact with DICOM and NIFTI images, and plot time-course data. Download the newest release of ITK-SNAP at http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3
 
 
