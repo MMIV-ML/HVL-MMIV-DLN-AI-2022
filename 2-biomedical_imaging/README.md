@@ -17,8 +17,8 @@ More specifically:
 
 
 ### Presentations: "Biomedical imaging in time and space" (in progress ...)
-- [[Part 1](https://docs.google.com/presentation/d/1wQRB70C-xh9gdnmSYQVphF4X9GAtQZSrU2wC0ymchH4/edit?usp=sharing)]
-- [[Part 2](https://docs.google.com/presentation/d/1Fr_3jeThP_3nRJ7AvlIh5XeY1OWHaHk_RoEl-gaL3lY/edit?usp=sharing)]
+- [[Part 1](https://docs.google.com/presentation/d/1wQRB70C-xh9gdnmSYQVphF4X9GAtQZSrU2wC0ymchH4/edit?usp=sharing)] (May 4th)
+- [[Part 2](https://docs.google.com/presentation/d/1Fr_3jeThP_3nRJ7AvlIh5XeY1OWHaHk_RoEl-gaL3lY/edit?usp=sharing)] (May 9th)
 
 -------------------------
 
