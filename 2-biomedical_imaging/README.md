@@ -4,7 +4,7 @@
 
 In the following series of seven Jupyter notebooks will explore **multichannel imaging data** from two quite different **imaging modalities** (in terms of physical principles and spatial resolution):
 - **Imaging Mass Cytometry** ([IMC](./IMC.md))
-- **Magnetic Resonance Imaging** ([MRI](./MRI.md))
+- **Magnetic Resonance Imaging** ([MRI](https://github.com/MMIV-ML/HVL-MMIV-DLN-AI-2022/tree/master/2-biomedical_imaging#sources-of-information-related-to-mri-principles-and-applications))
 
 and illustrate the **generic nature of computational imaging**. <br>
 
