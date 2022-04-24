@@ -74,9 +74,9 @@ You can (preferably) consider to use [JupyterLab](https://github.com/jupyterlab/
 
 
 ### Test you installation:
-Go through the notebook [`0-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/main/2-biomedical_imaging/0-test-installation.ipynb) in the `2-biomedical_imaging`-directory:
+Go through the notebook [`0-test-installation.ipynb`](https://nbviewer.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/0-test-installation.ipynb) in the `2-biomedical_imaging`-directory:
 ```bash
-cd "2-biomedical_imaging"
+cd 2-biomedical_imaging
 jupyter notebook  (or, jupyter lab)
 ```
 
