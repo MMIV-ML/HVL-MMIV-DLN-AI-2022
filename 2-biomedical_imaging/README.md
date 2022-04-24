@@ -59,7 +59,6 @@ conda env update --file environment-img.yml
 - [**1-get-MRI-IMC-data.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/1-get-MRI-IMC-data.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/1-get-MRI-IMC-data.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-
 - [**2-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/2-imaging-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/2-imaging-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
