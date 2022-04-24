@@ -10,7 +10,9 @@ _site/
 .vscode/*
 __MACOSX
 __pycache__
-
-
-
-
+2-biomedical_imaging/logs.log
+2-biomedical_imaging/mlruns
+2-biomedical_imaging/.DS_Store
+2-biomedical_imaging/results
+2-biomedical_imaging/data
+2-biomedical_imaging/nilearn_cache
