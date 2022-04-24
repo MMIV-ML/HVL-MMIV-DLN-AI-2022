@@ -1,0 +1,23 @@
+graph "" {
+	"Land A" -- "Land B"	[key=0,
+		color=red,
+		weight=1];
+	"Land A" -- "Land B"	[key=1,
+		color=red,
+		weight=1];
+	"Land A" -- "Land C"	[key=0,
+		color=red,
+		weight=1];
+	"Land A" -- "Land C"	[key=1,
+		color=red,
+		weight=1];
+	"Land A" -- "Land D"	[key=0,
+		color=red,
+		weight=1];
+	"Land B" -- "Land D"	[key=0,
+		color=red,
+		weight=1];
+	"Land C" -- "Land D"	[key=0,
+		color=red,
+		weight=1];
+}

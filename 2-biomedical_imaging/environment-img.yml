@@ -33,6 +33,7 @@ dependencies:
   - nibabel
   - nilearn
   - networkx
+  - pygraphviz
 
 # To make a DLN2022-IMG kernel:
 # python -m ipykernel install --user --name dln2022-img --display-name "DLN2022-IMG"
