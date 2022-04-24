@@ -4,7 +4,7 @@
 All students have been given access to the course Discord server via a link shared through email. 
 
 ## Software installation
-* You will be able to work through most of the course material using free cloud resources. However, for learning purposes, we recommend installing Python locally on your computer. One of the easiest ways is to install the Anaconda Python distribution. Instructions here: https://www.anaconda.com/products/individual.
+* You will be able to work through most of the course material using free cloud resources. However, for learning purposes, you may consider installing Python locally on your computer. One of the easiest ways is to install the Anaconda Python distribution. Instructions here: https://www.anaconda.com/products/individual.
 * If you haven't used Python before you can may consider exploring DataCamp. You will be sent a link that gives you free 6-month access to all of DataCamp. The link will be shared on the course Discord server.
 
 ## Learning material
