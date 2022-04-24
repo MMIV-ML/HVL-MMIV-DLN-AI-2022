@@ -16,9 +16,9 @@ More specifically:
 - brain connectivity and graph representation towards Network science
 
 
-### Presentations: "Biomedical imaging in time and space"
-- [[Part 1](https://docs.google.com/presentation/d/e/2PACX-1vSUMfipbMOk_tgMRlK3vrrphlA657Qt6CLfRKn6TKUw5GCLiDd3uUCI7iQ9uAg_Jd6OVaqKwev0d44k/pub?start=false&loop=false&delayms=3000)]
-- [[Part 2](https://docs.google.com/presentation/d/1j8LGfbNyg9CvS0d6li2rfeJ9nnwGq_NZS2EWWcGGNe8/edit?usp=sharing)]
+### Presentations: "Biomedical imaging in time and space" (in progress ...)
+- [[Part 1](https://docs.google.com/presentation/d/1wQRB70C-xh9gdnmSYQVphF4X9GAtQZSrU2wC0ymchH4/edit?usp=sharing)]
+- [[Part 2](https://docs.google.com/presentation/d/1Fr_3jeThP_3nRJ7AvlIh5XeY1OWHaHk_RoEl-gaL3lY/edit?usp=sharing)]
 
 -------------------------
 
