@@ -33,7 +33,7 @@ physical lectures in Bergen, which is fixed).
 | Day       |  Content
 |------------|------------
 |**Monday, April 25th**|                                                  
-|10:15-12:00 | Lectures about the course: its motivation and objectives
+|10:15-12:00 | Lectures about the course: its motivation and objectives. [Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vScKhVvck2fd3jUY_Z8N6r7xm5uPuDfjlsCAGLBxer2N16iHTXccSa19frHp9FTPPJx5ZPR6QjHRbfx/pub?start=false&loop=false&delayms=3000).
 |**Week 16, April 26&ndash;29**|                                                
 |On your own | [Getting started](0-getting_started)
 |**Monday May 2nd, in Bergen**| _Location announced on Discord_                                              
