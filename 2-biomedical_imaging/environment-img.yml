@@ -1,0 +1,50 @@
+name: dln2022-img
+
+channels:
+  - simpleitk
+  - conda-forge
+
+dependencies:
+  - python==3.8
+  - jupyter
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - pip
+  - git
+  - gdown
+  - ipywidgets
+  - itkwidgets
+  - numpy
+  - scipy
+  - pandas
+  - openpyxl
+  - seaborn
+  - SimpleITK
+  - scikit-image
+  - scikit-learn
+  - scikit-plot
+  - dipy
+  - imageio
+  - dcm2niix
+  - tifffile
+  - statsmodels
+  - nibabel
+  - nilearn
+  - networkx
+  - pygraphviz
+
+# To make a DLN2022-IMG kernel:
+# python -m ipykernel install --user --name dln2022-img --display-name "DLN2022-IMG"
+
+# To activate the dln2022-img conda environment:
+# conda activate dln2022-img
+
+# To update the dln2022-img conda environment:
+# conda env update -f environment-img.yml
+
+# To remove and reinstall the dln2022-img environment (if installation problems):
+# conda deactivate
+# conda env remove -n dln2022-img
+# conda env create -f environment-img.yml

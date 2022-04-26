@@ -33,8 +33,6 @@ The focus of the assignment is fivefold:
 
 -----------------------------------
 
-***More details, including a project report template, will be added***
-
 <!--
 ## *Prepare you and your computer for the team-based project*
 

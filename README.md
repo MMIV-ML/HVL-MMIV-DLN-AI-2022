@@ -33,7 +33,7 @@ physical lectures in Bergen, which is fixed).
 | Day       |  Content
 |------------|------------
 |**Monday, April 25th**|                                                  
-|10:15-12:00 | Lectures about the course: its motivation and objectives
+|10:15-12:00 | Lectures about the course: its motivation and objectives. [Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vScKhVvck2fd3jUY_Z8N6r7xm5uPuDfjlsCAGLBxer2N16iHTXccSa19frHp9FTPPJx5ZPR6QjHRbfx/pub?start=false&loop=false&delayms=3000). Link to [video recording](https://youtu.be/IMXnsYFaCi8).
 |**Week 16, April 26&ndash;29**|                                                
 |On your own | [Getting started](0-getting_started)
 |**Monday May 2nd, in Bergen**| _Location announced on Discord_                                              
@@ -46,18 +46,18 @@ physical lectures in Bergen, which is fixed).
 |09.15-12.00 | [A hands-on tour of deep learning, Part 1](1-deep_learning) 
 |13.15-15.00 | Working on the [team project](team_project)                                                  
 |**Wednesday May 4th, in Bergen**| _Location announced on Discord_  
-|09.15-12.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
-|13.15-15.00 | [A hands-on tour of deep learning, Part 2](1-deep_learning)  
+|09.15-12.00 | [A hands-on tour of deep learning, Part 2.1](1-deep_learning)  
+|13.15-15.00 | [Biomedical imaging in time and space, Part 1](2-biomedical_imaging)  
 |**Monday May 9th** | 
-|09.15-12.00 | [Biomedical imaging in time and space, Part 1](2-biomedical_imaging) 
-|**Friday May 13th** | 
 |09.15-12.00 | [Biomedical imaging in time and space, Part 2](2-biomedical_imaging) 
-|**Friday May 20th**|                                                  
+|**Friday May 13th** | 
+|09.15-12.00 | [A hands-on tour of deep learning, Part 2.2](1-deep_learning) 
+|**Thursday May 19th**|                                                  
 |10:15-12:00 | _TBA_|
 |**Week 21**|                                                  
 |On your own | Work on [team project](team_project)
 |**Wednesday June 1st**|                                                  
-|10:15-12:00 | Team project presentations 
+|09:15-12:00 | Team project presentations 
 |**Thursday June 2nd**|                                                  
 |16.00 | Team project deadline 
 |**Monday June 6th**|                                                  
