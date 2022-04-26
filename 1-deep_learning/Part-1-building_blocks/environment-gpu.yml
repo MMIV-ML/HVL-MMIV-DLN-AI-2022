@@ -1,0 +1,16 @@
+name: pytorch
+channels:
+    - pytorch
+    - defaults
+dependencies:
+- python>3.6
+- ipykernel
+- pytorch>=1.10
+- torchvision
+- cudatoolkit=11.3
+- matplotlib
+- seaborn
+- scikit-learn
+- pip
+- pip:
+  - pip
