@@ -13,6 +13,10 @@ A quick introduction to the building blocks of neural networks, and the construc
 └── environment-cpu.yml     <- The requirements file for reproducing the Python environment, CPU version
 ``` 
 
+## Slides
+
+_The slides accompanying Part 1 will be added_
+
 ## Notebooks
 
 _Notebooks TBA_
