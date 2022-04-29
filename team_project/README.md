@@ -1,11 +1,11 @@
-# _Precision imaging and personalized medicine in glioblastoma using machine learning_
+# _Precision medicine and quantitative imaging in glioblastoma - a multiscale approach_
 
 
 
 ## Description
 Imagine that you are a group of established successful scientists that will team up to tackle an important biomedical and medical challenge. There is an open call for research proposals under a new umbrella program entitled _“Artificial intelligence and computational (bio)medicine”_, where your multidisciplinary group are aiming for a project entitled 
 
-> “Precision imaging and personalized medicine in glioblastoma using machine learning”
+> “Precision medicine and quantitative imaging in glioblastoma - a multiscale approach”
 
 The focus of the assignment is fivefold: 
 
