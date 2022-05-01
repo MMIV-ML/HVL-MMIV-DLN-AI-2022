@@ -46,15 +46,16 @@ The focus of the assignment is fivefold:
 
 -->
 
+-----------------------------------
 
 - **Expected level of detail** is illustrated with a [project report](https://www.overleaf.com/read/xwjxwcnpzhqv) from the 2019 Summer School at Seili (for which *Prostate Cancer* was the topic) to be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and in the present repo as [[main.tex](./latex-template/Seili_2020_example/main.tex)],  [[fig1](./latex-template/Seili_2020_example/Fig1_The_process_of_autoEncoder.png)], [[fig2](./latex-template/Seili_2020_example/Fig2_Overview_of_the_process.png)], resulting in the [[pdf](./latex-template/Seili_2020_example/Seili_2020_project_template.pdf)].
 
 
 
-### Some sources of information  (brain tumors - neuroimaging - AI - software & data)<br>
+## Some sources of information  (brain tumors - neuroimaging - AI - software & data)<br>
 
 
-#### Pre reading
+#### Early reading
 
   - For those of you that have limited knowledge about biology and pathology of brain or want to refresh their knowledge, we recommend the free Coursera course
   https://www.coursera.org/learn/neurobiology, especially the lecture on [brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4).
