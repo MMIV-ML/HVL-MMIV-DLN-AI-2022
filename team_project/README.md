@@ -3,16 +3,16 @@
 
 
 ## Description
-Imagine that you are a group of established successful scientists that will team up to tackle an important biomedical and medical challenge. There is an open call for research proposals under a new umbrella program entitled _“Artificial intelligence and computational (bio)medicine”_, where your multidisciplinary group are aiming for a project entitled 
+Imagine that you are a group of established successful scientists that will team up to tackle an important biomedical and medical challenge. There is an open call for research proposals under a new umbrella program entitled _“Artificial intelligence and computational (bio)medicine”_, where your multidisciplinary group are aiming for a project entitled
 
 > “Precision medicine and quantitative imaging in glioblastoma - a multiscale approach”
 
-The focus of the assignment is fivefold: 
+The focus of the assignment is fivefold:
 
 1. description of relevant imaging technologies and modalities - possibly at different scales e.g. from IMC to MRI and combined with omics data
-2. proposal of imaging-derived biomarkers for glioblastoma, 
+2. proposal of imaging-derived biomarkers for glioblastoma,
 3. machine learning techniques for segmentation, classification, treatment stratification and prediction, or other relevant applications
-4. the novelty and expected impact of your approach and corresponding evaluation criteria, and 
+4. the novelty and expected impact of your approach and corresponding evaluation criteria, and
 5. a discussion of the ethics of your project together with a data management plan (and not so much the basic science of brain tumors per se).
 
 
@@ -47,7 +47,7 @@ The focus of the assignment is fivefold:
 -->
 
 
-- **Expected level of detail** is illustrated with a [project report](https://www.overleaf.com/read/xwjxwcnpzhqv) from the 2019 Summer School at Seili (for which *Prostate Cancer* was the topic) to be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and in the present repo as [[main.tex](./latex-template/Seili_2020_example/main.tex)],  [[fig1](./latex-template/Seili_2020_example/Fig1_The_process_of_autoEncoder.png)], [[fig2](./latex-template/Seili_2020_example/Fig2_Overview_of_the_process.png)], resulting in the [[pdf](./latex-template/Seili_2020_example/Seili_2020_project_template.pdf)].
+- **Expected level of detail** is illustrated with a [project report](https://www.overleaf.com/read/xwjxwcnpzhqv) from the 2020 Summer School at Seili (for which *Prostate Cancer* was the topic) to be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and in the present repo as [[main.tex](./latex_template/Seili_2020_example/main.tex)],  [[fig1](./latex_template/Seili_2020_example/Fig1_The_process_of_autoEncoder.png)], [[fig2](./latex_template/Seili_2020_example/Fig2_Overview_of_the_process.png)], resulting in the [[pdf](./latex_template/Seili_2020_example/Seili_2020_project_template.pdf)].
 
 
 
@@ -119,5 +119,3 @@ David G. Ellis [BraTS 2020 Tutorial](https://github.com/ellisdg/3DUnetCNN/tree/m
 
 
 __________________________________________________________________________
-
-
