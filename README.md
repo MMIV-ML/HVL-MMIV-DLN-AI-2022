@@ -39,7 +39,7 @@ physical lectures in Bergen, which is fixed).
 |**Monday May 2nd, in Bergen**| _Location announced on Discord_                                              
 |~09.45| We gather at a location to be announced 
 |10:30-11:45 | [Individual project pitch](project_pitch) 
-|12:00-14:00 | [Getting started on the team project](team_project)                                                  
+|12:00-14:00 | [Getting started on the team project](team_project)   ([Link to slides]( https://docs.google.com/presentation/d/e/2PACX-1vRa5J7Hk-R8Gs0Lw9SpItlRumOm0SZ7z_bjv87nnItX_bcBAKIEeaIIsKFk8F54hil5vgV0SyODTKBc/pub?start=false&loop=false&delayms=3000))                                              
 |14.00-15.00 | Lunch will be served (details on Discord)                                                 
 |15:00-| Discussions about the [team projects](team_project) organized by each team 
 |**Tuesday May 3rd, in Bergen**| _Location announced on Discord_  
