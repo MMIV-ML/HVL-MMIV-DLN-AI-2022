@@ -81,6 +81,13 @@ The focus of the assignment is fivefold:
 
 - Brain Tumor Segmentation (BraTS) Challenge 2021: RSNA-ASNR-MICCAI BraTS 2021 - **Task 1**: _Brain Tumor Segmentation in mpMRI scans_ ; **Task 2**: _Radiogenomics: Prediction of the MGMT promoter methylation status in mpMRI scans_  [[Data description](https://www.synapse.org/#!Synapse:syn27046444/wiki/616991)]
 
+
+**Imaging Mass Cytometry in Cancer** (some pointers)
+
+- Kuett L et al. Three-dimensional imaging mass cytometry for highly multiplexed molecular and cellular mapping of tissues and the tumor microenvironmentNature Cancer 2022;3:122-133 [[link](https://www.nature.com/articles/s43018-021-00301-w)]
+- Le Rochais M et al. Application of High-Throughput Imaging Mass Cytometry Hyperion in Cancer Research. Front. Immunol., 31 March 2022. [[link](https://www.frontiersin.org/articles/10.3389/fimmu.2022.859414/full)] 
+- Lin, Y-W E et al. Graph of graphs analysis for multiplexed data with application to imaging mass cytometry. PLoS Comput Biol 2021;17(3):e1008741 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008741)]
+
 **Brain tumors & Artificial intelligence** (some pointers)
 
 - NCI: Artificial Intelligence Expedites Brain Tumor Diagnosis during Surgery. 2020 Feb 12. [[link](https://www.cancer.gov/news-events/cancer-currents-blog/2020/artificial-intelligence-brain-tumor-diagnosis-surgery#:~:text=Now%2C%20a%20new%20study%20shows,tumor%20tissue%20from%20healthy%20tissue)]
