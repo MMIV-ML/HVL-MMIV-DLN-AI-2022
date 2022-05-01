@@ -84,7 +84,7 @@ The focus of the assignment is fivefold:
 
 **Imaging Mass Cytometry in Cancer** (some pointers)
 
-- Kuett L et al. Three-dimensional imaging mass cytometry for highly multiplexed molecular and cellular mapping of tissues and the tumor microenvironmentNature Cancer 2022;3:122-133 [[link](https://www.nature.com/articles/s43018-021-00301-w)]
+- Kuett L et al. Three-dimensional imaging mass cytometry for highly multiplexed molecular and cellular mapping of tissues and the tumor microenvironment. Nature Cancer 2022;3:122-133 [[link](https://www.nature.com/articles/s43018-021-00301-w)]
 - Le Rochais M et al. Application of High-Throughput Imaging Mass Cytometry Hyperion in Cancer Research. Front. Immunol., 31 March 2022. [[link](https://www.frontiersin.org/articles/10.3389/fimmu.2022.859414/full)] 
 - Lin, Y-W E et al. Graph of graphs analysis for multiplexed data with application to imaging mass cytometry. PLoS Comput Biol 2021;17(3):e1008741 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008741)]
 
