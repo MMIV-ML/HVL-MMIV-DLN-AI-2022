@@ -80,7 +80,6 @@ The focus of the assignment is fivefold:
 - Brain Tumor Segmentation (BraTS) Challenge 2020: Scope  (MICCAI2020) - Center for Biomedical Image Computing & Analytics, Perelman School of Medicine, University of Pennsylvania [[link](https://www.med.upenn.edu/cbica/brats2020)] [[Data description](https://www.med.upenn.edu/cbica/brats2020/data.html)]
 
 - Brain Tumor Segmentation (BraTS) Challenge 2021: RSNA-ASNR-MICCAI BraTS 2021 - **Task 1**: _Brain Tumor Segmentation in mpMRI scans_ ; **Task 2**: _Radiogenomics: Prediction of the MGMT promoter methylation status in mpMRI scans_  [[Data description](https://www.synapse.org/#!Synapse:syn27046444/wiki/616991)]
-- 
 
 **Brain tumors & Artificial intelligence** (some pointers)
 
