@@ -46,11 +46,12 @@ The focus of the assignment is fivefold:
 
 -->
 
------------------------------------
 
 - **Expected level of detail** is illustrated with a [project report](https://www.overleaf.com/read/xwjxwcnpzhqv) from the 2019 Summer School at Seili (for which *Prostate Cancer* was the topic) to be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and in the present repo as [[main.tex](./latex-template/Seili_2020_example/main.tex)],  [[fig1](./latex-template/Seili_2020_example/Fig1_The_process_of_autoEncoder.png)], [[fig2](./latex-template/Seili_2020_example/Fig2_Overview_of_the_process.png)], resulting in the [[pdf](./latex-template/Seili_2020_example/Seili_2020_project_template.pdf)].
 
 
+
+-----------------------------------
 
 ## Some sources of information  (brain tumors - neuroimaging - AI - software & data)<br>
 
@@ -69,7 +70,9 @@ The focus of the assignment is fivefold:
 **Brain tumors & Neuroimaging** (some pointers)
 
 - Abd-Ellah MK et al. A review on brain tumor diagnosis from MRI images: Practical implications, key achievements, and lessons learned. Magnetic Resonance Imaging 2019;61:300-318. [[link](https://www.sciencedirect.com/science/article/pii/S0730725X18304302)]
+- Booth TC et al. on behalf of the European Cooperation in Science Technology (COST) Glioma MR Imaging 2.0 (GliMR) initiative. High-Grade Glioma Treatment Response Monitoring Biomarkers: A Position Statement on the Evidence Supporting the Use of Advanced MRI Techniques in the Clinic, and the Latest Bench-to-Bedside Developments. Part 2: Spectroscopy, Chemical Exchange Saturation, Multiparametric Imaging, and Radiomics. Front. Oncol., 28 February 2022. [[link](https://www.frontiersin.org/articles/10.3389/fonc.2021.811425/full)]
 - Hamid MAA, Khan NA. Investigation and Classification of MRI Brain Tumors Using Feature Extraction Technique. Journal of Medical and Biological Engineering 2020;40:307–317. [[link](https://link.springer.com/article/10.1007/s40846-020-00510-1)]
+- Henriksen OM et al. on behalf of the European Cooperation in Science and Technology (COST) Glioma MR Imaging 2.0 (GliMR) Initiative. High-Grade Glioma Treatment Response Monitoring Biomarkers: A Position Statement on the Evidence Supporting the Use of Advanced MRI Techniques in the Clinic, and the Latest Bench-to-Bedside Developments. Part 1: Perfusion and Diffusion Techniques. Front. Oncol., 03 March 2022. [[link](https://www.frontiersin.org/articles/10.3389/fonc.2022.810263/full)]
 - Lohmann P et al. PET/MRI Radiomics in Patients With Brain Metastases. Front. Neurol., 07 February 2020. [[link](https://www.frontiersin.org/articles/10.3389/fneur.2020.00001/full)]
 - Tiwari A et al. Brain tumor segmentation and classification from magnetic resonance images: Review of selected methods from 2014 to 2019. Pattern Recognition Letters 2020;131:244-260. [[link](https://www.sciencedirect.com/science/article/pii/S016786551930340X)]
 - Nadeem MW et al. Brain Tumor Analysis Empowered with Deep Learning: A Review, Taxonomy, and Future Challenges. Brain Sci 2020;10(2):118. [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071415)]
