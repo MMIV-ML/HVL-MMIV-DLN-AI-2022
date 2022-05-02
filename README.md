@@ -44,7 +44,8 @@ physical lectures in Bergen, which is fixed).
 |15:00-| Discussions about the [team projects](team_project) organized by each team 
 |**Tuesday May 3rd, in Bergen**| _Location announced on Discord_  
 |09.15-12.00 | [A hands-on tour of deep learning, Part 1](1-deep_learning) 
-|13.15-15.00 | Working on the [team project](team_project)                                                  
+|13.15-15.00 | Working on the [team project](team_project)    
+|18.00 | Dinner in Bergen (details on Discord)
 |**Wednesday May 4th, in Bergen**| _Location announced on Discord_  
 |09.15-12.00 | [A hands-on tour of deep learning, Part 2.1](1-deep_learning)  
 |13.15-15.00 | [Biomedical imaging in time and space, Part 1](2-biomedical_imaging)  
