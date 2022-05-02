@@ -19,8 +19,6 @@ _The slides accompanying Part 1 will be added_
 
 ## Notebooks
 
-_Notebooks TBA_
-
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
 |  [1.0-asl-nnets_building_blocks_part1.ipynb](https://nbviewer.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-1-building_blocks/nbs/1.0-asl-nnets_building_blocks_part1.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-1-building_blocks/nbs/1.0-asl-nnets_building_blocks_part1.ipynb)
