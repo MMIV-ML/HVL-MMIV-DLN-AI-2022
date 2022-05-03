@@ -15,4 +15,7 @@ _The slides accompanying Part 2 will be added_
 
 ## Notebooks
 
-_Notebooks TBA_
+| Notebook    |      1-Click Notebook      |
+|:----------|------|
+|  [1.0-representations-get_molecular_fingerprints_and_images.ipynb](https://nbviewer.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-2-practical_deep_learning/nbs/1.0-representations-get_molecular_fingerprints_and_images.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-2-practical_deep_learning/nbs/1.0-representations-get_molecular_fingerprints_and_images.ipynb)
+| _more TBA_ |
