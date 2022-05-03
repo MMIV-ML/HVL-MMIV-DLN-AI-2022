@@ -54,7 +54,7 @@ conda env update --file environment-img.yml
 
 # The series of notebooks:
 
-- [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/0-test-installation.ipynb) (relevant only for local installation, cf. `environment-img.yml` and `setup-img.md`) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/0-test-installation.ipynb">
+- [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/0-test-installation.ipynb) (relevant for local installation, cf. `environment-img.yml` and `setup-img.md`, but has some imortant component for _Introduction to machine learning_) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/0-test-installation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 - [**1-get-MRI-IMC-data.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/1-get-MRI-IMC-data.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/1-get-MRI-IMC-data.ipynb">
