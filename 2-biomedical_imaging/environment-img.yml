@@ -25,6 +25,7 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scikit-plot
+  - pdpbox
   - dipy
   - imageio
   - dcm2niix
