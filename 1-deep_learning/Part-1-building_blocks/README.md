@@ -15,7 +15,10 @@ This part of the module gives a quick introduction to the building blocks of neu
 
 ## Slides
 
-_The slides accompanying Part 1 will be added_
+Slides from 03.05.22: [../slides/HVL-MMIV-DLN-AI-2022-Module1-NN_building_blocks-Part 1.pdf](HVL-MMIV-DLN-AI - 2022 - Module 1 - NN_building_blocks - Part 1.pdf)
+
+
+_Additional slides accompanying Part 1 will be added_
 
 ## Notebooks
 
