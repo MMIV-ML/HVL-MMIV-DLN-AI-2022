@@ -68,6 +68,9 @@ conda env update --file environment-img.yml
   
 - [**4-IMC-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/4-IMC-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/4-IMC-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+- [**5-sMRI-KNN-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/5-sMRI-KNN-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/5-sMRI-KNN-tissue-classification.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   
 <!--
 
