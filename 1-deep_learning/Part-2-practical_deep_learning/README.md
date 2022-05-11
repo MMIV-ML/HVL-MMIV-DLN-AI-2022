@@ -21,3 +21,35 @@ _The slides accompanying Part 2 will be added_
 |  [2.1.1-representations-representing_data_as_images.ipynb](https://nbviewer.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-2-practical_deep_learning/nbs/2.1.1-representations-representing_data_as_images.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-2-practical_deep_learning/nbs/2.1.1-representations-representing_data_as_images.ipynb)
 |  [2.1.2-representations-CNNs-as-feature_extractors.ipynb](https://nbviewer.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-2-practical_deep_learning/nbs/2.1.2-representations-CNNs-as-feature_extractors.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/1-deep_learning/Part-2-practical_deep_learning/nbs/2.1.2-representations-CNNs-as-feature_extractors.ipynb)
 | _more TBA_ |
+
+
+## Install Python environments
+
+### RDKit
+To run notebook 2.1.0 on your own computer, install our RDKit environment using Anaconda:
+
+```bash
+conda env update -f environment-rdkit.yml
+conda activate rdkit
+python -m ipykernel install --user --name rdkit --display-name "RDKit"
+conda deactivate
+```
+
+### fastai
+To run notebooks 2.1.1--2.2.1, install our fastai environment: 
+
+```bash
+conda env update -f environment-fastai.yml
+conda activate fastai
+python -m ipykernel install --user --name fastai --display-name "fastai"
+conda deactivate
+```
+
+### MONAI and torch.io
+To run notebook 2.2.2--2.2.3, install our MONAI and TorchIO environment:
+```bash
+conda env update -f environment-monai.yml
+conda activate monai
+python -m ipykernel install --user --name monai --display-name "MONAI"
+conda deactivate
+```
