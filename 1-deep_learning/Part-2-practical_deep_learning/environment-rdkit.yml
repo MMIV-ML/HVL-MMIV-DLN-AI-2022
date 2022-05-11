@@ -1,0 +1,13 @@
+name: rdkit
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+- python>3.6
+- ipykernel
+- rdkit
+- pandas==1.2.4
+- matplotlib
+- pip
+- pip:
+  - pip
