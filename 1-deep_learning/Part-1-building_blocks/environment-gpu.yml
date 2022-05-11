@@ -7,7 +7,7 @@ dependencies:
 - ipykernel
 - pytorch>=1.10
 - torchvision
-- cudatoolkit=11.3
+- cudatoolkit>=11.3
 - matplotlib
 - seaborn
 - scikit-learn
