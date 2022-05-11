@@ -53,8 +53,6 @@ physical lectures in Bergen, which is fixed).
 |09.15-12.00 | [Biomedical imaging in time and space, Part 2](2-biomedical_imaging) 
 |**Friday May 13th** | 
 |09.15-12.00 | [A hands-on tour of deep learning, Part 2.2](1-deep_learning) 
-|**Thursday May 19th**|                                                  
-|10:15-12:00 | _TBA_|
 |**Week 21**|                                                  
 |On your own | Work on [team project](team_project)
 |**Wednesday June 1st**|                                                  
