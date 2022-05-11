@@ -17,8 +17,9 @@ This part of the module gives a quick introduction to the building blocks of neu
 
 Slides from 03.05.22: [HVL-MMIV-DLN-AI-2022-Module1-NN_building_blocks-Part1.pdf](../../slides/HVL-MMIV-DLN-AI-2022-Module1-NN_building_blocks-Part1.pdf)
 
+Slides from 04.05.22: 
+[Quick refresher of linear algebra. Deep learning from a geometric point of view.](https://alexander.lundervold.com/slides/DLN-AI-linalg/DLN-AI-2022-linalg.html)
 
-_Additional slides accompanying Part 1 will be added_
 
 ## Notebooks
 
