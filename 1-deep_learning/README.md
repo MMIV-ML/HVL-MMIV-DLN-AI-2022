@@ -20,9 +20,3 @@ Get started here: [Part 2: Practical deep learning](./Part-2-practical_deep_lear
 
 ## Browse notebooks online
 You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/tree/master/1-deep_learning/).
-
-
-
-## Slides
-
-_TBA_

@@ -16,7 +16,7 @@ More specifically:
 - brain connectivity and graph representation towards Network science
 
 
-### Presentations: "Biomedical imaging in time and space" (in progress ...)
+### Presentations: "Biomedical imaging in time and space"
 - [[Part 1](https://docs.google.com/presentation/d/1wQRB70C-xh9gdnmSYQVphF4X9GAtQZSrU2wC0ymchH4/edit?usp=sharing)] (May 4th)
 - [[Part 2](https://docs.google.com/presentation/d/1Fr_3jeThP_3nRJ7AvlIh5XeY1OWHaHk_RoEl-gaL3lY/edit?usp=sharing)] (May 9th)
 
@@ -66,21 +66,22 @@ conda env update --file environment-img.yml
 - [**3-MRI-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/3-MRI-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/3-MRI-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   
+- [**4-IMC-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/4-IMC-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/4-IMC-intro.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+- [**5-sMRI-KNN-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/5-sMRI-KNN-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/5-sMRI-KNN-tissue-classification.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  
+- [**6-sMRI-Kmeans-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/6-sMRI-Kmeans-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/6-sMRI-Kmeans-tissue-classification.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  
+- [**7-fMRI-resting-state.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical_imaging/7-fMRI-resting-state.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/2-biomedical-imaging/7-fMRI-resting-state.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  
+  
 <!--
 
 - [**IMG-Example-3-MRI-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/IMG-Example-3-MRI-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/IMG-Example-3-MRI-intro.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-
-- [**IMG-Example-4-IMC-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/IMG-Example-4-IMC-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/IMG-Example-4-IMC-intro.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-
-- [**IMG-Example-5-sMRI-KNN-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/IMG-Example-5-sMRI-KNN-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/IMG-Example-5-sMRI-KNN-tissue-classification.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-
-- [**IMG-Example-6-sMRI-Kmeans-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/IMG-Example-6-sMRI-Kmeans-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/IMG-Example-6-sMRI-Kmeans-tissue-classification.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-
-- [**IMG-Example-7-fMRI-resting-state.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/IMG-Example-7-fMRI-resting-state.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/IMG-Example-7-fMRI-resting-state.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 -->
