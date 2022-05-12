@@ -14,5 +14,6 @@ dependencies:
 - pip
 - pip:
   - pip
-  - monai[all]
+  - monai[nibabel,skimage]>=0.8
   - torchio
+  - fastcore
