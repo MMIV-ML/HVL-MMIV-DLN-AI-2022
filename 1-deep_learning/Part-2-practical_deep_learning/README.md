@@ -11,7 +11,9 @@ We'll end by discussing an often underappreciated but crucial aspect of deep lea
 
 ## Slides
 
-_The slides accompanying Part 2 will be added_
+Intro-slides from 13.05.22: [DLN-AI-2022 - Module 1 - Deep learning, Part 2, 130522](https://docs.google.com/presentation/d/e/2PACX-1vTCIrUX_yA9xzw6slbfU288-bXMwe5dVsX8ejaeIve8kBM97UMVoFp_R2iRSVYl5pZR-UZ_m0jVqIEC/pub?start=false&loop=false&delayms=3000)
+
+_Additional slides accompanying Part 2 will be added_
 
 ## Notebooks
 
