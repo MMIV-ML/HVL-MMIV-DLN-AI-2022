@@ -62,7 +62,7 @@ physical lectures in Bergen, which is fixed).
 |**Monday June 6th**|                                                  
 | | Feedback on team project
 |**Tuesday June 7th**|                                                  
-|10:15-12:00 | Digital exam (pass/fail)
+|10:15-12:00 | Oral online exam (pass/fail)
 
 
 ______________________________________________________
